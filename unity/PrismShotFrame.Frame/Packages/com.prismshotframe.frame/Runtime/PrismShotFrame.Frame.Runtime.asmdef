@@ -1,0 +1,13 @@
+{
+  "name": "PrismShotFrame.Frame.Runtime",
+  "rootNamespace": "PrismShotFrame",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false
+}

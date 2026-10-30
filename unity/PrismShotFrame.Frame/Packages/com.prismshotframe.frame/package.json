@@ -1,0 +1,13 @@
+{
+  "name": "com.prismshotframe.frame",
+  "displayName": "PrismShotFrame Frame",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "ワールドに置く立体額縁。キルトと RGB-D。完全無料。",
+  "author": { "name": "coffin299" },
+  "license": "Apache-2.0",
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.0",
+    "com.vrchat.udonsharp": ">=1.1.9"
+  }
+}

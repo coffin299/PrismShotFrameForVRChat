@@ -1,0 +1,12 @@
+{
+  "name": "PrismShotFrame.Frame.Editor",
+  "rootNamespace": "PrismShotFrame.Editor",
+  "references": [
+    "PrismShotFrame.Frame.Runtime"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false
+}

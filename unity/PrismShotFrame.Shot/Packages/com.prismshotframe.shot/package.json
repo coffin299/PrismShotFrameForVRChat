@@ -1,0 +1,13 @@
+{
+  "name": "com.prismshotframe.shot",
+  "displayName": "PrismShotFrame Shot",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "PCのアバターで色と深度を1枚に撮るカメラ。完全無料。",
+  "author": { "name": "coffin299" },
+  "license": "Apache-2.0",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0",
+    "nadena.dev.modular-avatar": ">=1.9.0"
+  }
+}

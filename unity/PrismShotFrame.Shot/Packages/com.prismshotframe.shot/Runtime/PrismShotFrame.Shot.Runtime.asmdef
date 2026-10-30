@@ -1,0 +1,10 @@
+{
+  "name": "PrismShotFrame.Shot.Runtime",
+  "rootNamespace": "PrismShotFrame.Shot",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false
+}

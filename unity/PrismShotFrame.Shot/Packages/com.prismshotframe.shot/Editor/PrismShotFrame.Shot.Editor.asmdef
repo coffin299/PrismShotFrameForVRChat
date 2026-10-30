@@ -1,0 +1,16 @@
+{
+  "name": "PrismShotFrame.Shot.Editor",
+  "rootNamespace": "PrismShotFrame.Shot.Editor",
+  "references": [
+    "PrismShotFrame.Shot.Runtime",
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "VRC.SDK3A",
+    "nadena.dev.modular-avatar.core"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false
+}
